@@ -14,10 +14,9 @@
 - **Output**: depth of the tree
 
 e.g. 
-'''
+```
 **((()((()())))()(()))**
-'''
-
+```
 ![tree_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/tree_example.png)
 
 Depth is 5 for the example above
