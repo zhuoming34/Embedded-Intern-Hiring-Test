@@ -7,6 +7,35 @@
   - 1 if **n** is a prime number
   - output the smallest multiplier if **n** is not a prime number
 
+e.g.
+*input*
+```
+24
+```
+*output*
+```
+2
+```
+
+*input*
+```
+15
+```
+*output*
+```
+3
+```
+
+*input*
+```
+83
+```
+*output*
+```
+1
+```
+
+
 
 ## Tree Depth (c++20)
 - **Input**: a string of parentheses-representing tree 
@@ -23,7 +52,26 @@ e.g.
 
 
 ## String Line Reversal (c)
+- **Input**: user input characters (max length of 1024)
+- **Output**: print the lines
+  - reverse a line if it ends with '\n'
+  - do not reverse a line if it starts with '#'
+  - append to the next line if a line ends with '\' before '\n'
 
+e.g.
+*input*
+```
+abc123
+#abc123
+abcd\
+efgh
+```
+*output*
+```
+321cba
+abc123
+hgfedcba
+```
 
 
 ## Fastest Escalator (c++20)
