@@ -9,17 +9,19 @@
 
 e.g.
 
-> *input*:      24
+> *input*:          24
 
-> *output*:     2
+> *output*:         2
 
-> *input*:      15
+> *input*:          15
 
-> *output*:     3
+> *output*:         3
 
-> *input*:      83
+> *input*:          83
 
-> *output*:     1
+> *output*:         1
+
+
 
 
 
@@ -35,6 +37,9 @@ e.g.
 ![tree_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/tree_example.png)
 
 **Depth is 5 for the example above**
+
+
+
 
 
 ## String Line Reversal (c)
@@ -58,6 +63,9 @@ efgh
 abc123
 hgfedcba
 ```
+
+
+
 
 
 ## Fastest Escalator (c++20)
