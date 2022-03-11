@@ -13,8 +13,10 @@
   - (each node is represent by a pair of open parenthesis and close parenthesis) 
 - **Output**: depth of the tree
 
-e.g. **((()((()())))()(()))**
-
+e.g. 
+'''
+**((()((()())))()(()))**
+'''
 ![tree_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/tree_example.png)
 
 Depth is 5 for the example above
@@ -26,9 +28,10 @@ Depth is 5 for the example above
 
 ## Fastest Escalator (c++20)
 
+e.g.
 ```
-e.g. { {7, 3, 2},
-       {3, 6, 1}}
+ { {7, 3, 2},
+   {3, 6, 1} }
 ```
 
 ![escalator_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/escalator_example.png)
