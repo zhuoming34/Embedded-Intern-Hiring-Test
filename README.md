@@ -9,10 +9,8 @@
 
 e.g.
 
-*input*
-> 24
-*output*
-> 2
+> *input*:      24
+> *output*:     2
 
 *input*
 ```
