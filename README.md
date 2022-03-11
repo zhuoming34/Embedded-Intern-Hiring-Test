@@ -8,7 +8,8 @@ Input a number **n**
 ## Tree Depth (c++20)
 Input a parentheses-representing string 
 e.g. **((()((()())))()(()))**
-![tree_example](/assets/images/tree_example.png)
+
+![tree_example](/../main/assets/images/tree_example.png)
 
 
 
