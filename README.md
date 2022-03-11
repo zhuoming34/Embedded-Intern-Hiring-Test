@@ -18,7 +18,7 @@ e.g.
 
 ## Tree Depth (c++20)
 - **INPUT**: a string of parentheses-representing tree 
-  - (each node is represent by a pair of open parenthesis and close parenthesis) 
+  - each node is represent by a pair of open parenthesis and close parenthesis
 - **OUTPUT**: 
   - -1 if input is invalid (e.g. empty tree)
   - depth of the tree if it input is valid
@@ -59,7 +59,7 @@ hgfedcba
 
 ## Fastest Escalator (c++20)
 - **INPUT**: a 2D vector 
-  - ({ Left branch duration, Right branch duration, crossroad duration }) 
+  - { Left branch duration, Right branch duration, crossroad duration }
 - **OUTPUT**: the least amount of time to arrive at the top
 
 e.g.
@@ -68,5 +68,10 @@ e.g.
    {3, 6, 1} }
 ```
 ![escalator_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/escalator_example.png)
+
+Each number represents the time to travel through the correponding branch:
+- takes 2s to the right
+- takes 3s to go up
+- takes 3s to go up again
 
 **Time to arrive at the top is 6 for the example above**
