@@ -19,7 +19,7 @@ e.g.
 ```
 ![tree_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/tree_example.png)
 
-Depth is 5 for the example above
+**Depth is 5 for the example above**
 
 
 ## String Line Reversal (c)
@@ -27,11 +27,15 @@ Depth is 5 for the example above
 
 
 ## Fastest Escalator (c++20)
+- **Input**: a 2D vector 
+  - ({ Left branch duration, Right branch duration, crossroad duration }) 
+- **Output**: the least amount of time to arrive at the top
 
 e.g.
 ```
  { {7, 3, 2},
    {3, 6, 1} }
 ```
-
 ![escalator_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/escalator_example.png)
+
+**Time to arrive at the top is 6 for the example above**
