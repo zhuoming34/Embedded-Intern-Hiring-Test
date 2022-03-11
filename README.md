@@ -27,5 +27,7 @@ Depth is 5 for the example above
 ## Fastest Escalator (c++20)
 
 e.g. { {7, 3, 2},
+       
        {3, 6, 1}}
+       
 ![escalator_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/escalator_example.png)
