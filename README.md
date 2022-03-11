@@ -8,14 +8,11 @@
   - output the smallest multiplier if **n** is not a prime number
 
 e.g.
+
 *input*
-```
-24
-```
+> 24
 *output*
-```
-2
-```
+> 2
 
 *input*
 ```
