@@ -1,30 +1,29 @@
 # Embedded-Intern-Hiring-Test
  
 ## Prime or Not (c)
-- **Input**: a number **n**
-
-- **output**:
+- **INPUT**: a number **n**
+- **OUTPUT**:
   - 1 if **n** is a prime number
   - output the smallest multiplier if **n** is not a prime number
 
 e.g.
 
-> *input*: 24 -> *output*: 2
+> Input: 24 -> Output: 2
 
-> *input*: 15 -> *output*: 3
+> Input: 15 -> Output: 3
 
-> *input*: 83 -> *output*: 1
+> Input: 83 -> Output: 1
 
 
 
 ## Tree Depth (c++20)
-- **Input**: a string of parentheses-representing tree 
+- **INPUT**: a string of parentheses-representing tree 
   - (each node is represent by a pair of open parenthesis and close parenthesis) 
-- **Output**: depth of the tree
+- **OUTPUT**: depth of the tree
 
 e.g. 
 ```
-**((()((()())))()(()))**
+((()((()())))()(()))
 ```
 ![tree_example](https://github.com/zhuoming34/Embedded-Intern-Hiring-Test/blob/main/tree_example.png)
 
@@ -33,8 +32,8 @@ e.g.
 
 
 ## String Line Reversal (c)
-- **Input**: user input characters (max length of 1024)
-- **Output**: print the lines
+- **INPUT**: user input characters (max length of 1024)
+- **OUTPUT**: print the lines
   - reverse a line if it ends with '\n'
   - do not reverse a line if it starts with '#'
   - append to the next line if a line ends with '\' before '\n'
@@ -57,9 +56,9 @@ hgfedcba
 
 
 ## Fastest Escalator (c++20)
-- **Input**: a 2D vector 
+- **INPUT**: a 2D vector 
   - ({ Left branch duration, Right branch duration, crossroad duration }) 
-- **Output**: the least amount of time to arrive at the top
+- **OUTPUT**: the least amount of time to arrive at the top
 
 e.g.
 ```
