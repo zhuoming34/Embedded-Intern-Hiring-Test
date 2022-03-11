@@ -10,25 +10,16 @@
 e.g.
 
 > *input*:      24
+
 > *output*:     2
 
-*input*
-```
-15
-```
-*output*
-```
-3
-```
+> *input*:      15
 
-*input*
-```
-83
-```
-*output*
-```
-1
-```
+> *output*:     3
+
+> *input*:      83
+
+> *output*:     1
 
 
 
