@@ -19,7 +19,9 @@ e.g.
 ## Tree Depth (c++20)
 - **INPUT**: a string of parentheses-representing tree 
   - (each node is represent by a pair of open parenthesis and close parenthesis) 
-- **OUTPUT**: depth of the tree
+- **OUTPUT**: 
+  - -1 if input is invalid (e.g. empty tree)
+  - depth of the tree if it input is valid
 
 e.g. 
 ```
